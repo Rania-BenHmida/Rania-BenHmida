@@ -31,7 +31,7 @@ It brings subscription, support, sales and usage data into one governed warehous
 ```mermaid
 flowchart LR
     A[Source data<br/>accounts · subscriptions · tickets · deals · logs] --> B[Talend ETL<br/>scheduled refresh]
-    B --> C[(PostgreSQL<br/>star-schema warehouse)]
+    B --> C[(PostgreSQL<br/>constellation-schema warehouse)]
     C --> D[Power BI<br/>embedded dashboards]
     C --> E[Django REST API]
     E --> F[React + TypeScript app]
@@ -86,7 +86,6 @@ flowchart LR
 |---|---|---|
 | [**Price_comparator**](https://github.com/Rania-BenHmida/Price_comparator) | Team project: price comparison across supermarket products, hotels and flights, with scrapers, Talend ETL, a Flask API, forecasting models (ARIMA / SARIMA) and Power BI dashboards | Flask · MySQL · SQL Server · Talend · Power BI |
 | [**Dashboard_Amazon**](https://github.com/Rania-BenHmida/Dashboard_Amazon) | Multi-source Amazon data integration: scraping, pandas cleaning into one schema, Talend ETL and a Power BI report | Python · Talend · Power BI |
-| [**online-courses-data-analysis-powerbi**](https://github.com/Rania-BenHmida/online-courses-data-analysis-powerbi) | Four e-learning platforms merged into one clean dataset, with a two-page Power BI dashboard and DAX measures | Python · Power BI · DAX |
 
 ---
 
