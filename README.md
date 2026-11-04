@@ -31,7 +31,7 @@ I build the full data path: **ETL → data warehouse → BI → applications →
 | Jun – Aug 2025 | **Engineering internship**, MEDIANET | Amazon data pipeline: scraping with BeautifulSoup, SQL Server star-schema warehouse loaded with Talend, Power BI dashboard with daily automatic refresh |
 | Jul – Aug 2024 | **Summer internship**, Be-Softilys | Tutorials management web app: Spring Boot REST API, Angular front end, PostgreSQL |
 
-**Academic projects:** Graph-RAG product recommendation chatbot · Soccer position predictor (five ML models, up to 88% accuracy) · Video emotion recognition (CNN + Autoencoder + LSTM)
+**Academic projects:** Graph-RAG product recommendation chatbot · Video emotion recognition (CNN + Autoencoder + LSTM)
 
 ---
 
@@ -99,6 +99,7 @@ flowchart LR
 |---|---|---|
 | [**Price_comparator**](https://github.com/Rania-BenHmida/Price_comparator) | Team project: price comparison across supermarket products, hotels and flights, with scrapers, Talend ETL, a Flask API, forecasting models (ARIMA / SARIMA) and Power BI dashboards | Flask · MySQL · SQL Server · Talend · Power BI |
 | [**Dashboard_Amazon**](https://github.com/Rania-BenHmida/Dashboard_Amazon) | Multi-source Amazon data integration: scraping, pandas cleaning into one schema, Talend ETL and a Power BI report | Python · Talend · Power BI |
+| [**Soccer-Predictor**](https://github.com/Rania-BenHmida/Soccer-Predictor) | Team ML project on Premier League data: predicts a player's best position (five models compared, up to 88% accuracy), ranks players by position, with a Flask app and Power BI report | Python · scikit-learn · XGBoost · Flask |
 | [**Tutorials_App**](https://github.com/Rania-BenHmida/Tutorials_App) | Tutorials management web app from my 2024 internship at Be-Softilys, with the full project report | Spring Boot · Angular · PostgreSQL |
 
 ---
