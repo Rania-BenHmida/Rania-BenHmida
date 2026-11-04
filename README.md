@@ -99,6 +99,7 @@ flowchart LR
 |---|---|---|
 | [**Price_comparator**](https://github.com/Rania-BenHmida/Price_comparator) | Team project: price comparison across supermarket products, hotels and flights, with scrapers, Talend ETL, a Flask API, forecasting models (ARIMA / SARIMA) and Power BI dashboards | Flask · MySQL · SQL Server · Talend · Power BI |
 | [**Dashboard_Amazon**](https://github.com/Rania-BenHmida/Dashboard_Amazon) | Multi-source Amazon data integration: scraping, pandas cleaning into one schema, Talend ETL and a Power BI report | Python · Talend · Power BI |
+| [**Fashion-Business-Insights**](https://github.com/Rania-BenHmida/Fashion-Business-Insights) | Retail BI project: SSIS ETL, SQL Server star-schema warehouse and a two-page Power BI dashboard with KPIs for sales, customers and stock | SSIS · SQL Server · Power BI · DAX |
 | [**Soccer-Predictor**](https://github.com/Rania-BenHmida/Soccer-Predictor) | Team ML project on Premier League data: predicts a player's best position (five models compared, up to 88% accuracy), ranks players by position, with a Flask app and Power BI report | Python · scikit-learn · XGBoost · Flask |
 | [**Tutorials_App**](https://github.com/Rania-BenHmida/Tutorials_App) | Tutorials management web app from my 2024 internship at Be-Softilys, with the full project report | Spring Boot · Angular · PostgreSQL |
 
