@@ -23,6 +23,18 @@ I build the full data path: **ETL → data warehouse → BI → applications →
 
 ---
 
+## 💼 Experience
+
+| Period | Role | What I did |
+|---|---|---|
+| Feb – Sep 2026 | **End-of-study internship**, MEDIANET | MEDIANET Nexus: AI-assisted CRM platform, PostgreSQL warehouse with Talend ETL, role-based Power BI dashboards, Medianaute NL-to-SQL assistant |
+| Jun – Aug 2025 | **Engineering internship**, MEDIANET | Amazon data pipeline: scraping with BeautifulSoup, SQL Server star-schema warehouse loaded with Talend, Power BI dashboard with daily automatic refresh |
+| Jul – Aug 2024 | **Summer internship**, Be-Softilys | Tutorials management web app: Spring Boot REST API, Angular front end, PostgreSQL |
+
+**Academic projects:** Graph-RAG product recommendation chatbot · Soccer position predictor (five ML models, up to 88% accuracy) · Video emotion recognition (CNN + Autoencoder + LSTM)
+
+---
+
 ## ⭐ Featured project: MEDIANET Nexus (end-of-studies project)
 
 A **customer success and analytics platform** built during my final-year internship at **MEDIANET**.
@@ -44,7 +56,7 @@ flowchart LR
 | **Data engineering** | Star-schema warehouse in PostgreSQL, loaded with Talend (dimensions first, then facts), refreshed on a schedule or on demand |
 | **BI** | Power BI dashboards with DAX measures for sales pipeline and customer success KPIs |
 | **Application** | React + TypeScript front end, Django REST back end, role-based access, bilingual interface |
-| **AI** | **Gen BI chatbot**: language and intent detection, SQL generation, AST-based SQL validation, answers with charts, Groq → Mistral provider fallback |
+| **AI** | **Medianaute**, a bilingual text and voice assistant: language and intent detection, natural language → SQL, AST-based SQL validation, answers with charts, Groq → Mistral fallback, Whisper speech-to-text. Answers evaluated with BERTScore and LLM-as-a-judge (88% intent accuracy) |
 
 👉 **[See the full project](https://github.com/Rania-BenHmida/MEDIANET-Nexus)**
 
@@ -77,6 +89,7 @@ flowchart LR
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ---
 
@@ -86,6 +99,7 @@ flowchart LR
 |---|---|---|
 | [**Price_comparator**](https://github.com/Rania-BenHmida/Price_comparator) | Team project: price comparison across supermarket products, hotels and flights, with scrapers, Talend ETL, a Flask API, forecasting models (ARIMA / SARIMA) and Power BI dashboards | Flask · MySQL · SQL Server · Talend · Power BI |
 | [**Dashboard_Amazon**](https://github.com/Rania-BenHmida/Dashboard_Amazon) | Multi-source Amazon data integration: scraping, pandas cleaning into one schema, Talend ETL and a Power BI report | Python · Talend · Power BI |
+| [**Tutorials_App**](https://github.com/Rania-BenHmida/Tutorials_App) | Tutorials management web app from my 2024 internship at Be-Softilys, with the full project report | Spring Boot · Angular · PostgreSQL |
 
 ---
 
